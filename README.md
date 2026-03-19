@@ -1,0 +1,2 @@
+# openAIDemo
+Spring AI integration
